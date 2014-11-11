@@ -5,14 +5,14 @@
 | --- | --- |
 | Name | Update Metadata in a Data Product |
 | Scope of Work | Status UI |
-| Actors: | Marine Operator, Science |
+| Actors: | Marine Operator, Science, Data Manager, Data Evaluator |
 | Requester | OL |
 | Description: | Update values of all required metadata fields when a data product is updated  |
 
 
 ##Definition
 
-OOI Data Products must have associated metadata which explains data provenance and which conforms to ocean science community standards. The metadata values must be up-to-date.
+OOI Data Products must have associated metadata which explains data calibration/validation, provenance, associated ship data collected by the marine operators and which conforms to ocean science community standards. The metadata values must be up-to-date.
 
 ##Assumptions :
 
